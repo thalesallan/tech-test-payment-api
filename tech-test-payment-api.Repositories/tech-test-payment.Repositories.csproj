@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>tech_test_payment.Repositories</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\tech-test-payment-api.Borders\tech-test-payment.Borders.csproj" />
+    <ProjectReference Include="..\tech-test-payment-api.Helpers\tech-test-payment.Helpers.csproj" />
+  </ItemGroup>
+
+</Project>
