@@ -137,10 +137,3 @@ Consulte o Swagger para rotas completas. Exemplos comuns:
 
 ## Notas finais
 Este repositório foi implementado como teste técnico para candidatura. O código prioriza clareza e separação de responsabilidades para facilitar revisão e evolução.
-
----
-
-Se quiser, posso também:
-- Extrair e listar endpoints com exemplos de payload;
-- Criar templates de solicitações cURL/Insomnia;
-- Adicionar um `README` mais técnico por pasta ou gerar um `docker-compose` com banco.
