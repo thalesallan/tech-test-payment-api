@@ -43,7 +43,7 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-app.UseStaticFiles();
+// Removed app.UseStaticFiles() because the project does not include a wwwroot folder
 
 app.UseRouting();
 
